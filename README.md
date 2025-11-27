@@ -1,19 +1,19 @@
 // ENDPOINTS 
 
 GET PRODUCTOS
-https://api-rest-full-comidas.onrender.com/productos
+https://api-comidas.onrender.com/productos
 
 GET PEDIDOS
-https://api-rest-full-comidas.onrender.com/pedidos
+https://api-comidas.onrender.com/pedidos
 
 
 GET BY ID PEDIDOS
-https://api-rest-full-comidas.onrender.com/productos/(id)
+https://api-comidas.onrender.com/productos/(id)
 
 
 POST PEDIDOS
 
-https://api-rest-full-comidas.onrender.com/pedidos
+https://api-comidas.onrender.com/pedidos
 
 
 Body:
@@ -25,7 +25,7 @@ Body:
 
 PUT BY ID PEDIDOS
 
-https://api-rest-full-comidas.onrender.com/pedidos/(id)
+https://api-comidas.onrender.com/pedidos/(id)
 
 
 Body:
@@ -37,7 +37,7 @@ Body:
 
 DELETE BY ID PEDIDOS
 
-https://api-rest-full-comidas.onrender.com/pedidos/(id)
+https://api-comidas.onrender.com/pedidos/(id)
 
 
 
