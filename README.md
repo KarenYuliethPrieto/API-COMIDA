@@ -1,22 +1,25 @@
 // ENDPOINTS 
 
+Verificar API
+https://api-comida-d4z6.onrender.com
+
 GET PRODUCTOS
-https://api-comidas.onrender.com/productos
+https://api-comida-d4z6.onrender.com/productos
 
 GET PRODUCTOS POR ID
-https://api-comidas.onrender.com/productos/(id)
+https://api-comida-d4z6.onrender.com/productos/1  //esto es un ejemplo con un ID 
 
 GET PEDIDOS
-https://api-comidas.onrender.com/pedidos
+https://api-comida-d4z6.onrender.com/pedidos
 
 
 GET BY ID PEDIDOS
-https://api-comidas.onrender.com/pedidos/(id)
+https://api-comida-d4z6.onrender.com/pedidos/1
 
 
 POST PEDIDOS
 
-https://api-comidas.onrender.com/pedidos
+https://api-comida-d4z6.onrender.com/pedidos
 
 
 Body:
@@ -28,7 +31,7 @@ Body:
 
 PUT BY ID PEDIDOS
 
-https://api-comidas.onrender.com/pedidos/(id)
+https://api-comida-d4z6.onrender.com/pedidos/1
 
 
 Body:
@@ -40,4 +43,4 @@ Body:
 
 DELETE BY ID PEDIDOS
 
-https://api-comidas.onrender.com/pedidos/(id)
+https://api-comida-d4z6.onrender.com/pedidos/1
